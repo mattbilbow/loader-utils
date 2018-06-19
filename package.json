@@ -19,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/webpack/loader-utils.git"
+    "url": "https://github.com/mattbilbow/loader-utils.git"
   },
   "engines": {
     "node": ">=4.0.0"
